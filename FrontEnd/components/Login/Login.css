@@ -1,0 +1,75 @@
+.input, 
+.mb-3{
+    width: 40%;
+    margin-left: 54%;
+    margin-top: 30px;
+}
+
+.card{
+    height: 90%;
+}
+
+
+.card-text{
+    font-size: small;
+    margin-top: -10px;
+}
+
+
+  
+.box{
+        height: 100%;
+        width: 45%;
+        position: absolute;
+        background-color: #2E3977;
+        overflow: hidden;
+        border-top-right-radius: 100% ;
+        border-bottom-right-radius:100% ;
+        border-left: 0;
+
+        
+
+}
+
+.image{
+    margin-left: -90px;
+    margin-top: 30px;
+    width: 200px;
+}
+
+.heading{
+    padding-top: 50px;
+    margin-left: 48%;
+    width: 50%;
+
+}
+
+.btn,
+.btn-dark{
+    margin-left: 49%;
+    width:40.5%;
+}
+
+#forgetpass{
+    padding-left: 255px;
+    color: black;
+}
+
+.form-check-label{
+    padding-left:2px;
+}
+
+#register{
+    color: black;
+}
+
+#email1{
+    margin-left: -460px;
+}
+
+#pass1{
+    margin-left: -430px;
+}
+
+
+
